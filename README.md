@@ -16,7 +16,7 @@ Actualmente, estoy aprendiendo Kubernetes y gestionando un clúster desplegado t
 - **Automatización de Proxmox con Terraform**: Este proyecto destaca la automatización del despliegue de máquinas virtuales en Proxmox utilizando Terraform. No fue una tarea fácil y requirió varios pasos para configurar correctamente la infraestructura. [Ver Proyecto](https://github.com/lizzijuliet/https-spacelift.io-blog-terraform-proxmox-provider)
 
 🚀 Actividades
-- Además de mi trabajo profesional, soy trail runner. También nado y ando en bicicleta. Puedes ver mis entrenamientos y rutas en mi perfil de Strava: [Strava Profile](https://www.strava.com/athletes/110451476).
+- Además de mi trabajo profesional, soy trail runner. Puedes ver mis entrenamientos y rutas en mi perfil de Strava: [Strava Profile](https://www.strava.com/athletes/110451476).
 
 📫 Contáctame
 - **Correo Electrónico**: [salvatierra.lizzi@gmail.com]
