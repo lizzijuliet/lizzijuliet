@@ -1,25 +1,132 @@
-## 👋 Hola, soy Lizzi Salvatierra
 
-Soy SysAdmin con experiencia en infraestructura on-premise y actualmente me desempeño como Analista de Infraestructura en proyectos para misiones satelitales. Mi interés en las tecnologías de la información me ha llevado a trabajar con herramientas y plataformas como Proxmox, VMware, Linux y Windows, siempre con la intención de aprender y adaptándome a nuevas tecnologías.
+# Hi, I'm Lizzi Salvatierra 👋
 
-Actualmente, estoy aprendiendo Kubernetes y gestionando un clúster desplegado tanto en un entorno on-premise como en máquinas virtuales. Además, estoy explorando plataformas en la nube como AWS, Azure y Google Cloud para enriquecer mis habilidades y comprensión en diversos entornos.
+### IT Infrastructure Analyst | Systems Administration | Linux | Kubernetes | Virtualization
 
-🔧 Tecnologías y Herramientas
-- **Herramientas**: Proxmox, VMware, Linux, Windows, Terraform, Docker, GitLab, Nexus, Redmine, Guacamole, pfSense, ownCloud, Zabbix, Grafana, Ansible
-- **Bases de Datos**: PostgreSQL, MongoDB, Redis, InfluxDB
+I'm an IT infrastructure professional with experience in **on-premises infrastructure, systems administration, virtualization, networking, enterprise storage, and Kubernetes-based environments**.
 
-🌱 Actualmente Aprendiendo
+I enjoy investigating complex technical issues, understanding how systems interact, identifying root causes, and improving infrastructure reliability and operational stability.
+
+## 💻 Professional Experience
+
+### IT Infrastructure Analyst | VENG S.A.
+**September 2021 – October 2026**
+
+My primary role involved supporting the **Ground Segment of the SABIA-Mar satellite mission**, particularly its **Mission Operations Center (MOC)**.
+
+The MOC operates on a **Kubernetes platform deployed on virtual machines within an on-premises infrastructure environment**.
+
+My responsibilities and technical activities included:
+
+- Administration, monitoring, and troubleshooting of on-premises infrastructure.
+- Operation and maintenance of Kubernetes clusters and containerized services.
+- Administration and support of VMware vSphere and Proxmox virtualization environments.
+- Infrastructure support involving Linux servers, networking, and enterprise storage platforms such as Dell EMC Isilon and HPE 3PAR.
+- Investigation of infrastructure incidents, service failures, configuration issues, and performance degradation.
+- Troubleshooting of PostgreSQL, MongoDB, Redis, InfluxDB, and related database services.
+- Analysis of high-availability configurations, replication, failover, backup, and recovery procedures.
+- Monitoring and troubleshooting using Grafana, Zabbix, Graylog, and Elasticsearch.
+- Investigation of operational workflows and services involving Apache Airflow.
+- Configuration validation, deployment support, and infrastructure automation using Helm, Ansible, and other tools.
+- Analysis of network connectivity, firewalls, reverse proxies, and service communication issues.
+- Identification of potential improvements to infrastructure reliability, availability, and maintainability.
+
+I also provided **occasional technical support for SAOCOM mission systems**, although SABIA-Mar was my primary assignment.
+
+---
+
+## 🛠️ Technical Skills
+
+### Infrastructure & Virtualization
+- VMware vSphere
+- Proxmox VE
+- Linux & Windows Server
+- Dell EMC Isilon & HPE 3PAR
+- NFS & enterprise storage
+- On-premises infrastructure administration
+
+### Containers & Automation
 - Kubernetes
-- **Cloud Computing**: AWS, Azure, Google Cloud
+- Docker
+- Helm
+- Ansible
+- Terraform
+- Git & GitLab
+- Nexus
 
-📈 Proyectos Destacados
-- **Automatización de Proxmox con Terraform**: Este proyecto destaca la automatización del despliegue de máquinas virtuales en Proxmox utilizando Terraform. No fue una tarea fácil y requirió varios pasos para configurar correctamente la infraestructura. [Ver Proyecto](https://github.com/lizzijuliet/https-spacelift.io-blog-terraform-proxmox-provider)
+### Databases & High Availability
+- PostgreSQL & Patroni
+- MongoDB
+- Redis
+- InfluxDB
+- Replication & failover
+- Backup & recovery troubleshooting
 
-🚀 Actividades
-- Además de mi trabajo profesional, soy trail runner. Puedes ver mis entrenamientos y rutas en mi perfil de Strava: [Strava Profile](https://www.strava.com/athletes/110451476).
+### Monitoring & Operations
+- Grafana
+- Zabbix
+- Graylog
+- Elasticsearch
+- Apache Airflow
+- Incident investigation
+- Log analysis
+- Performance troubleshooting
 
-📫 Contáctame
-- **Correo Electrónico**: [salvatierra.lizzi@gmail.com]
+### Networking & Services
+- TCP/IP & VLANs
+- pfSense
+- NGINX & reverse proxies
+- DNS & SSH
+- Network troubleshooting
+- Service connectivity diagnostics
 
-Gracias por visitar mi perfil!
+---
 
+## 🔎 How I Approach Technical Challenges
+
+My work often involves troubleshooting issues that affect multiple layers of an infrastructure environment.
+
+I focus on:
+
+- Investigating incidents through logs, system metrics, and configuration analysis.
+- Understanding dependencies between infrastructure components and applications.
+- Identifying potential root causes rather than only addressing symptoms.
+- Evaluating system performance, resource utilization, and operational behavior.
+- Reviewing high-availability and recovery mechanisms.
+- Documenting technical findings and communicating improvement opportunities.
+- Continuously learning through research, testing, and hands-on troubleshooting.
+
+I particularly enjoy problems that require connecting information across different technologies to understand why a system is not behaving as expected.
+
+---
+
+## 🎯 Professional Interests
+
+- IT Infrastructure Engineering
+- Linux Systems Administration
+- Kubernetes & Container Platforms
+- Virtualization & On-Premises Infrastructure
+- Infrastructure Automation
+- High Availability & Disaster Recovery
+- Monitoring & Observability
+- Performance Analysis & Root Cause Investigation
+
+I'm also expanding my knowledge of cloud platforms, including AWS, Microsoft Azure, and Google Cloud.
+
+---
+
+## 🏃 Beyond Technology
+
+Outside IT, I'm passionate about trail running, dancing, and taking on new challenges.
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [github.com/lizzijuliet](https://github.com/lizzijuliet)
+- **Email:** [salvatierra.lizzi@gmail.com](mailto:salvatierra.lizzi@gmail.com)
+- **Location:** Córdoba, Argentina
+
+**Open to opportunities in IT Infrastructure, Systems Administration, Linux, Kubernetes, and Platform Operations.**
+
+Thanks for visiting my profile!
